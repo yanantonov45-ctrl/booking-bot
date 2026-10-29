@@ -1,0 +1,9 @@
+[project]
+name = "booking-bot"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "aiogram>=3.13,<4",
+    "aiosqlite>=0.20",
+    "python-dotenv>=1.0",
+]
